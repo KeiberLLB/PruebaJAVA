@@ -23,7 +23,7 @@ public class AdmTiendaControl {
         String option = "";
         do {
             option = JOptionPane.showInputDialog("""
-                    MENU REGISTRO
+                    MENU TIENDA
                     1. Nueva Venta
                     2. Registrar Nuevo Producto
                     3. Actualizar Producto
